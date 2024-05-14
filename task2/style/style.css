@@ -1,0 +1,34 @@
+section{
+    padding: 10rem;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.first{
+    padding-left: 20px;
+}
+.second{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    border-top: black 1px solid ;
+    border-bottom: black 1px solid ;
+    padding: 20px ;
+}
+.third{
+    padding-left: 30rem;
+}
+.color{
+    border: black 1px solid;
+    width: 100px;
+    height: 50px;
+
+}
+#1{
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+}
